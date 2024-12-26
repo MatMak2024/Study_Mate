@@ -1,0 +1,5 @@
+
+    <footer>
+        <p>&copy; 2023 Mon Site. Tous droits réservés.</p>
+    </footer>
+
